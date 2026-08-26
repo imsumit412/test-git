@@ -8,4 +8,8 @@ adding another line
 
 <br>
 
+<<<<<<< HEAD
 hello sumit1
+=======
+hello sumit
+>>>>>>> feature/new
